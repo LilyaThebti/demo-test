@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ ./tools/deployment/developer/ceph/100-horizon.sh
+
