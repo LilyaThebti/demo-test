@@ -1,2 +1,4 @@
+---
+platform: linux
 run:
   path: booklit/ci/test
